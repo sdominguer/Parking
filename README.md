@@ -101,11 +101,8 @@ Las contribuciones son bienvenidas. Si deseas colaborar:
    ```
 3. Envía un pull request describiendo tus cambios.
 
-## **Licencia**
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
-
 ## **Contacto**
 Si tienes preguntas o sugerencias, por favor contáctanos a:
-- **Email:** soporte@universidad.edu
-- **GitHub:** [tu_usuario](https://github.com/tu_usuario)
+- **Email:** sdominguer@eafit.edu.co
+
 
